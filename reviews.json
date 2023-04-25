@@ -1,0 +1,28 @@
+[
+    {
+        "spotId": "643f1d0f2a99f259c18d9ab9",
+        "reviews": [
+            {
+                "rating": 5,
+                "comment": "Amazing beachfront location! We loved our stay.",
+                "userId": "643ef3a485f82ace643b5b34"
+            },
+            {
+                "rating": 4,
+                "comment": "Great place, but could use some updates.",
+                "userId": "643c8ac5ca1f186979f3bbc7"
+            },
+            {
+                "rating": 5,
+                "comment": "Perfect for a beach getaway. Will come back again!",
+                "userId": "643d736105ea53f6a7889a18"
+            },
+            {
+                "rating": 4,
+                "comment": "Nice place, close to local restaurants and nightlife.",
+                "userId": "643cb0acca1f186979f3bbc8"
+            }
+        ]
+        
+    }
+]

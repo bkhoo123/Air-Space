@@ -1,0 +1,1313 @@
+[{
+  "_id": {
+    "$oid": "643f1d0f2a99f259c18d9ab9"
+  },
+  "title": "Charming Beachfront Bungalow",
+  "location": "Miami, Florida",
+  "description": "Experience the beach life in this charming bungalow, just steps away from the sand and surf. Enjoy the vibrant local scene with great food and nightlife.",
+  "spotImages": [
+    "https://images.unsplash.com/photo-1585544314038-a0d3769d0193?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+    "https://images.unsplash.com/photo-1585546250005-83b887856883?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+    "https://images.unsplash.com/photo-1622396090030-858a147a0c7e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+    "https://images.unsplash.com/photo-1600671012016-e5890d87f804?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1254&q=80",
+    "https://images.unsplash.com/photo-1576522867688-b8eb0fc8acd3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
+  ],
+  "rating": 4.6,
+  "reviews": [
+    {
+      "rating": 5,
+      "comment": "Amazing beachfront location! We loved our stay.",
+      "userId": "643ef3a485f82ace643b5b34"
+    },
+    {
+      "rating": 4,
+      "comment": "Great place, but could use some updates.",
+      "userId": "643c8ac5ca1f186979f3bbc7"
+    },
+    {
+      "rating": 5,
+      "comment": "Perfect for a beach getaway. Will come back again!",
+      "userId": "643d736105ea53f6a7889a18"
+    },
+    {
+      "rating": 4,
+      "comment": "Nice place, close to local restaurants and nightlife.",
+      "userId": "643cb0acca1f186979f3bbc8"
+    }
+  ],
+  "price": 180,
+  "distance": 200,
+  "userId": "643f1ccf85f82ace643b5b35"
+},{
+  "_id": {
+    "$oid": "643f1d0f2a99f259c18d9aba"
+  },
+  "title": "Rustic Mountain Cabin",
+  "location": "Lake Tahoe, California",
+  "description": "Surround yourself with nature in this rustic mountain cabin. Perfect for a relaxing getaway or outdoor adventure.",
+  "spotImages": [
+    "https://images.unsplash.com/photo-1537726235470-8504e3beef77?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+    "https://images.unsplash.com/photo-1502005229762-cf1b2da7c5d6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+    "https://images.unsplash.com/photo-1503174971373-b1f69850bded?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1513&q=80",
+    "https://images.unsplash.com/photo-1518733057094-95b53143d2a7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=730&q=80"
+  ],
+  "rating": 4.7,
+  "reviews": [
+    {
+      "rating": 5,
+      "comment": "Cozy and comfortable cabin with stunning views.",
+      "userId": "643ef3a485f82ace643b5b34"
+    },
+    {
+      "rating": 4,
+      "comment": "Great cabin, but the driveway is a bit steep.",
+      "userId": "643c8ac5ca1f186979f3bbc7"
+    },
+    {
+      "rating": 5,
+      "comment": "The perfect spot for a mountain retreat. Highly recommended.",
+      "userId": "643cb0acca1f186979f3bbc8"
+    }
+  ],
+  "price": 220,
+  "distance": 500,
+  "userId": "643f1ccf85f82ace643b5b35"
+},{
+  "_id": {
+    "$oid": "643f1d0f2a99f259c18d9abb"
+  },
+  "title": "Elegant Penthouse with City Views",
+  "location": "London, England",
+  "description": "Stay in this elegant penthouse with stunning city views. Experience the best of London with easy access to top attractions and dining.",
+  "spotImages": [
+    "https://images.unsplash.com/photo-1595032186144-1a5bcc537f52?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+    "https://images.unsplash.com/photo-1604578762246-41134e37f9cc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "https://images.unsplash.com/photo-1618219944342-824e40a13285?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=627&q=80",
+    "https://images.unsplash.com/photo-1615874694520-474822394e73?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1480&q=80",
+    "https://images.unsplash.com/photo-1618219740975-d40978bb7378?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1400&q=80"
+  ],
+  "rating": 4.8,
+  "reviews": [
+    {
+      "rating": 5,
+      "comment": "The view is breathtaking! We had a fantastic time.",
+      "userId": "643ef3a485f82ace643b5b34"
+    },
+    {
+      "rating": 4,
+      "comment": "Stylish penthouse, but a bit expensive.",
+      "userId": "643d736105ea53f6a7889a18"
+    },
+    {
+      "rating": 5,
+      "comment": "Perfect location, close to major attractions.",
+      "userId": "643cb0acca1f186979f3bbc8"
+    },
+    {
+      "rating": 4,
+      "comment": "Loved the design, but the elevator was slow.",
+      "userId": "643c8ac5ca1f186979f3bbc7"
+    },
+    {
+      "rating": 5,
+      "comment": "Luxurious stay with exceptional city views.",
+      "userId": "643ef3a485f82ace643b5b34"
+    }
+  ],
+  "price": 400,
+  "distance": 950,
+  "userId": "643f1ccf85f82ace643b5b35"
+},{
+  "_id": {
+    "$oid": "643f1d0f2a99f259c18d9abc"
+  },
+  "title": "Tranquil Countryside Retreat",
+  "location": "Tuscany, Italy",
+  "description": "Unwind in this peaceful countryside retreat, surrounded by rolling hills and vineyards. Explore nearby historic villages and savor the local flavors.",
+  "spotImages": [
+    "https://images.unsplash.com/photo-1565352336881-dc2c1f7d2d5b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "https://images.unsplash.com/photo-1615875474908-f403116f5287?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1480&q=80",
+    "https://images.unsplash.com/photo-1600607686527-6fb886090705?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+    "https://images.unsplash.com/photo-1618220252344-8ec99ec624b1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1480&q=80",
+    "https://images.unsplash.com/photo-1604014237256-11d475e2a2d8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
+  ],
+  "rating": 4.5,
+  "reviews": [
+    {
+      "rating": 5,
+      "comment": "Beautiful countryside retreat, perfect for relaxation.",
+      "userId": "643ef3a485f82ace643b5b34"
+    },
+    {
+      "rating": 4,
+      "comment": "Amazing scenery, but slightly remote.",
+      "userId": "643d736105ea53f6a7889a18"
+    },
+    {
+      "rating": 4,
+      "comment": "Charming place, but the Wi-Fi was slow.",
+      "userId": "643cb0acca1f186979f3bbc8"
+    },
+    {
+      "rating": 5,
+      "comment": "Incredible views, close to historic villages.",
+      "userId": "643c8ac5ca1f186979f3bbc7"
+    }
+  ],
+  "price": 175,
+  "distance": 900,
+  "userId": "643d72dc05ea53f6a7889a17"
+},{
+  "_id": {
+    "$oid": "643f1d0f2a99f259c18d9abd"
+  },
+  "title": "Stylish Studio in the City",
+  "location": "Paris, France",
+  "description": "Discover the charm of Paris in this stylish studio, conveniently located near popular attractions, shops, and restaurants.",
+  "spotImages": [
+    "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "https://images.unsplash.com/photo-1613545564235-db7af30081bf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "https://images.unsplash.com/photo-1590725140246-20acdee442be?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+    "https://images.unsplash.com/photo-1506126279646-a697353d3166?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "https://images.unsplash.com/photo-1512915922686-57c11dde9b6b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1473&q=80"
+  ],
+  "rating": 4.6,
+  "reviews": [
+    {
+      "rating": 5,
+      "comment": "Amazing location and stylish interior!",
+      "userId": "643ef3a485f82ace643b5b34"
+    },
+    {
+      "rating": 3,
+      "comment": "Great location, but the studio was a bit cramped.",
+      "userId": "643d736105ea53f6a7889a18"
+    },
+    {
+      "rating": 5,
+      "comment": "Perfect spot for exploring Paris!",
+      "userId": "643cb0acca1f186979f3bbc8"
+    }
+  ],
+  "price": 150,
+  "distance": 250,
+  "userId": "643d72dc05ea53f6a7889a17"
+},{
+  "_id": {
+    "$oid": "643f1d0f2a99f259c18d9abe"
+  },
+  "title": "Chic and Elegant Studio",
+  "location": "Paris, France",
+  "description": "Experience the City of Lights in style with this chic and elegant studio, just a stone's throw away from popular attractions.",
+  "spotImages": [
+    "https://images.unsplash.com/photo-1556595101-15dc5f6431e3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+    "https://images.unsplash.com/photo-1615529162924-f8605388461d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1480&q=80",
+    "https://images.unsplash.com/photo-1562663474-6cbb3eaa4d14?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+    "https://images.unsplash.com/photo-1600607687126-8a3414349a51?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+    "https://images.unsplash.com/photo-1616593969747-4797dc75033e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1480&q=80"
+  ],
+  "rating": 4.4,
+  "reviews": [
+    {
+      "rating": 5,
+      "comment": "Elegant studio, superb location!",
+      "userId": "643ef3a485f82ace643b5b34"
+    },
+    {
+      "rating": 4,
+      "comment": "Beautifully designed, but a bit pricey.",
+      "userId": "643d736105ea53f6a7889a18"
+    },
+    {
+      "rating": 3,
+      "comment": "Nice studio, but noisy neighbors.",
+      "userId": "643cb0acca1f186979f3bbc8"
+    },
+    {
+      "rating": 5,
+      "comment": "Chic and comfortable stay!",
+      "userId": "643d72dc05ea53f6a7889a17"
+    }
+  ],
+  "price": 180,
+  "distance": 1050,
+  "userId": "643f1ccf85f82ace643b5b35"
+},{
+  "_id": {
+    "$oid": "643f1d0f2a99f259c18d9abf"
+  },
+  "title": "Beachfront Retreat with Infinity Pool",
+  "location": "Santorini, Greece",
+  "description": "Unwind in this stunning beachfront retreat complete with an infinity pool and breathtaking views of the Mediterranean.",
+  "spotImages": [
+    "https://images.unsplash.com/photo-1533070129449-d0ee17425ac4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=776&q=80",
+    "https://images.unsplash.com/photo-1543489822-c49534f3271f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80",
+    "https://images.unsplash.com/photo-1501127122-f385ca6ddd9d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "https://images.unsplash.com/photo-1556020685-ae41abfc9365?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+    "https://images.unsplash.com/photo-1527694224012-be005121c774?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=776&q=80"
+  ],
+  "rating": 4.9,
+  "reviews": [
+    {
+      "rating": 5,
+      "comment": "Breathtaking views and amazing infinity pool!",
+      "userId": "643ef3a485f82ace643b5b34"
+    },
+    {
+      "rating": 4,
+      "comment": "Gorgeous villa, but a bit isolated from the town.",
+      "userId": "643d736105ea53f6a7889a18"
+    },
+    {
+      "rating": 5,
+      "comment": "Stunning location and luxurious stay!",
+      "userId": "643d72dc05ea53f6a7889a17"
+    }
+  ],
+  "price": 1300,
+  "distance": 2200,
+  "userId": "643c8ac5ca1f186979f3bbc7"
+},{
+  "_id": {
+    "$oid": "643f1d0f2a99f259c18d9ac0"
+  },
+  "title": "Classic Country Manor",
+  "location": "Cotswolds, England",
+  "description": "Escape to the English countryside in this classic manor, boasting all the charm and elegance of a bygone era.",
+  "spotImages": [
+    "https://images.unsplash.com/photo-1647996179012-66b87eba3d17?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1469&q=80",
+    "https://images.unsplash.com/photo-1501183638710-841dd1904471?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "https://images.unsplash.com/photo-1532372576444-dda954194ad0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+    "https://images.unsplash.com/photo-1501183638710-841dd1904471?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "https://images.unsplash.com/photo-1560184897-ae75f418493e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+  ],
+  "rating": 4.6,
+  "reviews": [
+    {
+      "rating": 5,
+      "comment": "Breathtaking views and amazing infinity pool!",
+      "userId": "643ef3a485f82ace643b5b34"
+    },
+    {
+      "rating": 4,
+      "comment": "Gorgeous villa, but a bit isolated from the town.",
+      "userId": "643d736105ea53f6a7889a18"
+    },
+    {
+      "rating": 5,
+      "comment": "Stunning location and luxurious stay!",
+      "userId": "643d72dc05ea53f6a7889a17"
+    }
+  ],
+  "price": 550,
+  "distance": 3950,
+  "userId": "643c8ac5ca1f186979f3bbc7"
+},{
+  "_id": {
+    "$oid": "643f1d0f2a99f259c18d9ac1"
+  },
+  "title": "Urban Oasis with Skyline Views",
+  "location": "Tokyo, Japan",
+  "description": "Enjoy the best of city living with this sleek urban oasis, featuring stunning skyline views and modern amenities.",
+  "spotImages": [
+    "https://images.unsplash.com/photo-1666966738268-9e2f7219ec89?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80",
+    "https://images.unsplash.com/photo-1666966742263-9ee06057866f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80",
+    "https://images.unsplash.com/photo-1666966740532-14450d885196?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80",
+    "https://images.unsplash.com/photo-1571843439991-dd2b8e051966?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "https://images.unsplash.com/photo-1552155235-a68a6c02d512?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1495&q=80"
+  ],
+  "rating": 4.7,
+  "reviews": [
+    {
+      "rating": 5,
+      "comment": "Absolutely loved the urban oasis, the view was incredible!",
+      "userId": "643ef3a485f82ace643b5b34"
+    },
+    {
+      "rating": 4,
+      "comment": "Modern and stylish apartment, but a bit noisy at night.",
+      "userId": "643d736105ea53f6a7889a18"
+    },
+    {
+      "rating": 3,
+      "comment": "Location was great, but the apartment was smaller than expected.",
+      "userId": "643d72dc05ea53f6a7889a17"
+    },
+    {
+      "rating": 5,
+      "comment": "Fantastic amenities and super convenient location.",
+      "userId": "643cb0acca1f186979f3bbc8"
+    }
+  ],
+  "price": 350,
+  "distance": 5200,
+  "userId": "643c8ac5ca1f186979f3bbc7"
+},{
+  "_id": {
+    "$oid": "643f1d0f2a99f259c18d9ac2"
+  },
+  "title": "Rustic Cabin Getaway",
+  "location": "Banff, Canada",
+  "description": "Immerse yourself in the great outdoors with this rustic cabin getaway, nestled amidst the picturesque Canadian Rockies.",
+  "spotImages": [
+    "https://images.unsplash.com/photo-1499696010180-025ef6e1a8f9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "https://images.unsplash.com/photo-1521401830884-6c03c1c87ebb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "https://images.unsplash.com/photo-1551927411-95e412943b58?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=898&q=80",
+    "https://images.unsplash.com/photo-1631630259742-c0f0b17c6c10?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "https://images.unsplash.com/photo-1576536423721-d68a48c8ffd8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1476&q=80"
+  ],
+  "rating": 4.8,
+  "reviews": [
+    {
+      "rating": 4,
+      "comment": "Clean and comfortable cabin, but the wifi was weak.",
+      "userId": "643d736105ea53f6a7889a18"
+    },
+    {
+      "rating": 5,
+      "comment": "Amazing cabin! Beautiful surroundings and very cozy.",
+      "userId": "643d72dc05ea53f6a7889a17"
+    },
+    {
+      "rating": 3,
+      "comment": "Cabin was okay, but the heating system was not efficient.",
+      "userId": "643ef3a485f82ace643b5b34"
+    }
+  ],
+  "price": 300,
+  "distance": 1350,
+  "userId": "643f1ccf85f82ace643b5b35"
+},{
+  "_id": {
+    "$oid": "643f1d0f2a99f259c18d9ac3"
+  },
+  "title": "Luxurious Penthouse with City Views",
+  "location": "Sydney, Australia",
+  "description": "Indulge in luxury with this penthouse, offering stunning city views and unparalleled amenities in the heart of Sydney.",
+  "spotImages": [
+    "https://plus.unsplash.com/premium_photo-1661963360446-5ad15320b8bd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1355&q=80",
+    "https://images.unsplash.com/photo-1565623833408-d77e39b88af6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80",
+    "https://images.unsplash.com/photo-1613643043796-a370ee99ecbe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80",
+    "https://images.unsplash.com/photo-1613643044620-287b74606da1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "https://images.unsplash.com/photo-1609766857326-18a204c2cf31?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+  ],
+  "rating": 5,
+  "reviews": [
+    {
+      "rating": 5,
+      "comment": "The penthouse was absolutely stunning! The views were amazing and the amenities were top-notch.",
+      "userId": "643ef3a485f82ace643b5b34"
+    },
+    {
+      "rating": 5,
+      "comment": "One of the best stays I've ever had. The location was perfect, and the penthouse itself was luxurious and spacious.",
+      "userId": "643d736105ea53f6a7889a18"
+    }
+  ],
+  "price": 950,
+  "distance": 8750,
+  "userId": "643f1ccf85f82ace643b5b35"
+},{
+  "_id": {
+    "$oid": "643f1d0f2a99f259c18d9ac4"
+  },
+  "title": "Modern Apartment in the Heart of the City",
+  "location": "Downtown",
+  "description": "This beautiful apartment is located in the heart of the city, just a few steps away from all the best restaurants and bars.",
+  "spotImages": [
+    "https://images.unsplash.com/photo-1600607686527-6fb886090705?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+    "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "https://images.unsplash.com/photo-1556909172-54557c7e4fb7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "https://images.unsplash.com/photo-1600585153490-76fb20a32601?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+  ],
+  "rating": 4.8,
+  "reviews": [
+    {
+      "rating": 5,
+      "comment": "Absolutely loved my stay here! The location couldn't be better, and the apartment was clean and modern. Highly recommend!",
+      "userId": "643ef3a485f82ace643b5b34"
+    },
+    {
+      "rating": 5,
+      "comment": "Had a great experience staying here. The apartment was well-equipped and comfortable, and the host was very accommodating. Would definitely stay again!",
+      "userId": "643d736105ea53f6a7889a18"
+    },
+    {
+      "rating": 4,
+      "comment": "Overall, a decent stay. The location was great, but the apartment could use some updating. It was clean, but a bit dated. Still, a good value for the price.",
+      "userId": "643d72dc05ea53f6a7889a17"
+    },
+    {
+      "rating": 4,
+      "comment": "The apartment was nice, but there were a few minor issues with cleanliness that could have been addressed. Overall, a decent stay.",
+      "userId": "643cb0acca1f186979f3bbc8"
+    },
+    {
+      "rating": 5,
+      "comment": "I had a pleasant stay here. The location was perfect for exploring the city, and the apartment was comfortable and well-maintained. Would recommend!",
+      "userId": "643ef3a485f82ace643b5b34"
+    },
+    {
+      "rating": 3,
+      "comment": "Best place I've lived in.",
+      "userId": "643d72dc05ea53f6a7889a17"
+    }
+  ],
+  "price": 150,
+  "distance": 125,
+  "userId": "643f1ccf85f82ace643b5b35"
+},{
+  "_id": {
+    "$oid": "643f1d0f2a99f259c18d9ac5"
+  },
+  "title": "Stunning Villa with Ocean Views",
+  "location": "Bali, Indonesia",
+  "description": "Escape to paradise in this stunning villa with sweeping ocean views. Relax in your private pool or take a stroll on the nearby beach.",
+  "spotImages": [
+    "https://images.unsplash.com/photo-1613553507747-5f8d62ad5904?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "https://images.unsplash.com/photo-1613553474179-e1eda3ea5734?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "https://images.unsplash.com/photo-1533044309907-0fa3413da946?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+    "https://images.unsplash.com/photo-1644027620741-a0d859d0245e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "https://images.unsplash.com/photo-1514053026555-49ce8886ae41?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
+  ],
+  "rating": 4.9,
+  "reviews": [
+    {
+      "name": "Nina",
+      "rating": 2,
+      "comment": "The villa was quite disappointing. The cleanliness was not up to par and the staff was unresponsive to our concerns.",
+      "userId": "a6f8d9b2f84c37ef51a22d90"
+    },
+    {
+      "name": "Sam",
+      "rating": 3,
+      "comment": "The location and views were great, but the villa itself needed maintenance. The furniture was worn out and some appliances didn't work properly.",
+      "userId": "1d9f70d2c91e8f13734ad98a"
+    }
+  ],
+  "price": 1250,
+  "distance": 2700,
+  "userId": "643c8ac5ca1f186979f3bbc7"
+},{
+  "_id": {
+    "$oid": "643f1d0f2a99f259c18d9ac6"
+  },
+  "title": "Modern Loft in the City Center",
+  "location": "New York",
+  "description": "Live in style in this modern loft located in the heart of the city.",
+  "spotImages": [
+    "https://plus.unsplash.com/premium_photo-1674151809417-2ac3bdb95f92?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=772&q=80",
+    "https://images.unsplash.com/photo-1589834390005-5d4fb9bf3d32?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+    "https://images.unsplash.com/photo-1459535653751-d571815e906b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1468&q=80",
+    "https://images.unsplash.com/photo-1589832648912-7c9fd6a6213e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "https://images.unsplash.com/photo-1629813022755-f0df31416606?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=928&q=80",
+    "https://images.unsplash.com/photo-1550074711-dd6c5aba1d45?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+  ],
+  "rating": 4.5,
+  "reviews": [
+    {
+      "name": "Henry",
+      "rating": 2,
+      "comment": "The loft was not as advertised. The furnishings were worn and some amenities were missing. Quite disappointed with the experience.",
+      "userId": "ea1d37c11d91e67e82131dbf"
+    },
+    {
+      "name": "Linda",
+      "rating": 3,
+      "comment": "The location was fantastic, but the loft itself was quite noisy, and the Wi-Fi was spotty. Not the best experience for the price.",
+      "userId": "a7d65a59b264f47c1aa3412c"
+    }
+  ],
+  "price": 250,
+  "distance": 271,
+  "userId": "643c8ac5ca1f186979f3bbc7"
+},{
+  "_id": {
+    "$oid": "643f1d0f2a99f259c18d9ac7"
+  },
+  "title": "Sleek and Stylish Apartment",
+  "location": "San Francisco",
+  "description": "Stay in this sleek and stylish apartment and enjoy all that San Francisco has to offer.",
+  "spotImages": [
+    "https://images.unsplash.com/photo-1551806136-68d2868db7b5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1398&q=80",
+    "https://images.unsplash.com/photo-1551806405-b76c7789f4ab?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "https://images.unsplash.com/photo-1623625433656-76f7e1450acb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80",
+    "https://images.unsplash.com/photo-1650964336686-7f7be9e35f35?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1469&q=80",
+    "https://images.unsplash.com/photo-1650964336589-96b3f1719a7b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1480&q=80"
+  ],
+  "rating": 4.7,
+  "reviews": [
+    {
+      "userId": "a5f5d6bfe910",
+      "name": "David",
+      "rating": 5,
+      "comment": "This apartment was amazing! The location was perfect and the interior design was gorgeous. Highly recommend!"
+    },
+    {
+      "userId": "f7e8a9d1e7b0",
+      "name": "Amy",
+      "rating": 4,
+      "comment": "Had a great stay in this apartment. The space was well-equipped and comfortable, and the location was unbeatable. Only complaint is that the price was a bit high."
+    },
+    {
+      "userId": "c1d2e3f4a5b6",
+      "name": "James",
+      "rating": 4,
+      "comment": "The apartment was very stylish and had everything we needed for a comfortable stay. The location was great too. However, the check-in process could have been smoother."
+    },
+    {
+      "userId": "e8f9d0a1b2c3",
+      "name": "Sophie",
+      "rating": 5,
+      "comment": "Loved this apartment! It was beautifully decorated and had everything we needed for a great stay. The location was perfect too!"
+    },
+    {
+      "userId": "d9e0a1b2c3f4",
+      "name": "Matt",
+      "rating": 4,
+      "comment": "Overall, a good experience. The apartment was nicely furnished and in a great location. Only issue was that the internet was a bit slow."
+    }
+  ],
+  "price": 200,
+  "distance": 1.5,
+  "userId": "643cb0acca1f186979f3bbc8"
+},{
+  "_id": {
+    "$oid": "643f1d0f2a99f259c18d9ac8"
+  },
+  "title": "Luxury Villa with Panoramic Views",
+  "location": "Cabo San Lucas",
+  "description": "Escape to this luxurious villa with stunning views of the ocean and surrounding landscape. Perfect for a relaxing getaway.",
+  "spotImages": [
+    "https://images.unsplash.com/photo-1522444195799-478538b28823?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+    "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+    "https://images.unsplash.com/photo-1505015920881-0f83c2f7c95e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+    "https://images.unsplash.com/photo-1532372576444-dda954194ad0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+    "https://images.unsplash.com/photo-1499916078039-922301b0eb9b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1480&q=80"
+  ],
+  "rating": 4.5,
+  "reviews": [
+    {
+      "userId": "f7e8a9d1e7b0",
+      "name": "John",
+      "rating": 4,
+      "comment": "Great location and amenities"
+    },
+    {
+      "userId": "a5f5d6bfe910",
+      "name": "Jane",
+      "rating": 1,
+      "comment": "Terrible experience, would not recommend"
+    },
+    {
+      "userId": "d9e0a1b2c3f4",
+      "name": "Mike",
+      "rating": 2,
+      "comment": "Overpriced and outdated, not worth it"
+    },
+    {
+      "userId": "c1d2e3f4a5b6",
+      "name": "Emily",
+      "rating": 3,
+      "comment": "Disappointing stay, wouldn't recommend"
+    },
+    {
+      "userId": "e8f9d0a1b2c3",
+      "name": "Sam",
+      "rating": 5,
+      "comment": "Amazing views and great service"
+    },
+    {
+      "userId": "b4a5c6d7e8f9",
+      "name": "Alex",
+      "rating": 2,
+      "comment": "Not up to par with other options in the area"
+    },
+    {
+      "userId": "g1h2i3j4k5l6",
+      "name": "Sarah",
+      "rating": 5,
+      "comment": "Absolutely stunning, would definitely recommend"
+    },
+    {
+      "userId": "m7n8o9p1q2r3",
+      "name": "Tom",
+      "rating": 3,
+      "comment": "Decent stay, but nothing special"
+    }
+  ],
+  "price": 450,
+  "distance": 357,
+  "userId": "643cb0acca1f186979f3bbc8"
+},{
+  "_id": {
+    "$oid": "643f1d0f2a99f259c18d9ac9"
+  },
+  "title": "Cozy Cottage in the Woods",
+  "location": "Asheville, NC",
+  "description": "Get away from it all with this charming cottage in the woods. Surrounded by nature, it's the perfect place to relax and recharge.",
+  "spotImages": [
+    "https://plus.unsplash.com/premium_photo-1667579187948-cae72bcc8d25?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "https://images.unsplash.com/photo-1601918774946-25832a4be0d6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1469&q=80",
+    "https://images.unsplash.com/photo-1553444836-bc6c8d340ba7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1469&q=80",
+    "https://images.unsplash.com/photo-1591825729269-caeb344f6df2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "https://images.unsplash.com/photo-1614649024145-7f847b1c803f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80"
+  ],
+  "rating": 4.2,
+  "reviews": [
+    {
+      "userId": "a1b2c3d4e5f6",
+      "name": "Laura",
+      "rating": 5,
+      "comment": "Fantastic location, steps from the beach! The bungalow was clean and comfortable, with everything we needed for a great stay."
+    },
+    {
+      "userId": "g7h8i9j1k2l3",
+      "name": "James",
+      "rating": 3,
+      "comment": "The beachfront location was amazing, but the bungalow was in need of some serious maintenance. Disappointing overall."
+    },
+    {
+      "userId": "m4n5o6p7q8r9",
+      "name": "Natalie",
+      "rating": 4,
+      "comment": "Perfect location for beach lovers! The bungalow was cozy and well-appointed, but the Wi-Fi was a bit slow."
+    },
+    {
+      "userId": "s1t2u3v4w5x6",
+      "name": "Aaron",
+      "rating": 5,
+      "comment": "Loved this beach bungalow! The view was incredible and the place had a charming, laid-back vibe. Would stay again!"
+    },
+    {
+      "userId": "y7z8a9b1c2d3",
+      "name": "Ava",
+      "rating": 5,
+      "comment": "Great beach getaway! The bungalow had everything we needed, and the proximity to the beach was unbeatable."
+    },
+    {
+      "userId": "e4f5g6h7i8j9",
+      "name": "Lucas",
+      "rating": 4,
+      "comment": "Awesome location, but the noise from nearby nightlife kept us up at night. The bungalow itself was clean and comfortable."
+    },
+    {
+      "userId": "k1l2m3n4o5p6",
+      "name": "Isabella",
+      "rating": 3,
+      "comment": "The beachfront location was great, but the bungalow was not as clean as we would have liked. Disappointed overall."
+    },
+    {
+      "userId": "r7s8t9u1v2w3",
+      "name": "Sophie",
+      "rating": 2,
+      "comment": "Overpriced and underwhelming. The bungalow was not as advertised, and we had several issues during our stay."
+    },
+    {
+      "userId": "x4y5z6a7b8c9",
+      "name": "Ethan",
+      "rating": 4,
+      "comment": "The beachfront location was unbeatable, but the bungalow was a bit dated and could use some updates. Overall, a good stay."
+    },
+    {
+      "userId": "d9e8f7g6h5i4",
+      "name": "Hannah",
+      "rating": 3,
+      "comment": "The beach bungalow was nice, but we had several issues with the plumbing during our stay. Disappointing overall."
+    }
+  ],
+  "price": 180,
+  "distance": 200,
+  "userId": "643f1ccf85f82ace643b5b35643d72dc05ea53f6a7889a17"
+},{
+  "_id": {
+    "$oid": "643f1d0f2a99f259c18d9aca"
+  },
+  "title": "Rustic Mountain Cabin",
+  "location": "Lake Tahoe, California",
+  "description": "Surround yourself with nature in this rustic mountain cabin. Perfect for a relaxing getaway or outdoor adventure.",
+  "spotImages": [
+    "https://images.unsplash.com/photo-1537726235470-8504e3beef77?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+    "https://images.unsplash.com/photo-1502005229762-cf1b2da7c5d6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+    "https://images.unsplash.com/photo-1503174971373-b1f69850bded?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1513&q=80",
+    "https://images.unsplash.com/photo-1518733057094-95b53143d2a7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=730&q=80"
+  ],
+  "rating": 4.7,
+  "reviews": [
+    {
+      "userId": "a1b2c3d4e5f6",
+      "name": "Ella",
+      "rating": 5,
+      "comment": "An amazing cabin in the mountains. We loved the rustic charm and cozy atmosphere. Can't wait to come back!"
+    },
+    {
+      "userId": "g7h8i9j1k2l3",
+      "name": "Joshua",
+      "rating": 4,
+      "comment": "A great mountain retreat with beautiful scenery. The cabin was a bit chilly at night, but overall, we enjoyed our stay."
+    },
+    {
+      "userId": "m4n5o6p7q8r9",
+      "name": "Charlotte",
+      "rating": 5,
+      "comment": "This cabin is perfect for a peaceful getaway. We enjoyed hiking and exploring the surrounding nature during our stay."
+    },
+    {
+      "userId": "s1t2u3v4w5x6",
+      "name": "Jack",
+      "rating": 3,
+      "comment": "The cabin was nice, but we had several issues with the plumbing during our stay. It put a bit of a damper on our vacation."
+    },
+    {
+      "userId": "y7z8a9b1c2d3",
+      "name": "Amelia",
+      "rating": 5,
+      "comment": "A wonderful cabin surrounded by stunning scenery. It had everything we needed for a perfect vacation."
+    },
+    {
+      "userId": "e4f5g6h7i8j9",
+      "name": "Ethan",
+      "rating": 5,
+      "comment": "Absolutely loved our time in this mountain cabin! It was the perfect blend of rustic charm and modern amenities."
+    },
+    {
+      "userId": "k1l2m3n4o5p6",
+      "name": "Liam",
+      "rating": 4,
+      "comment": "The cabin was great, but we had a few issues with the heating system during our stay. Overall, a good experience."
+    },
+    {
+      "userId": "r7s8t9u1v2w3",
+      "name": "Mia",
+      "rating": 3,
+      "comment": "The cabin was cozy, but there were some cleanliness issues that detracted from our enjoyment of the stay."
+    },
+    {
+      "userId": "x4y5z6a7b8c9",
+      "name": "Sophie",
+      "rating": 2,
+      "comment": "Not impressed with this cabin. It was overpriced for what we got, and the amenities were lacking."
+    }
+  ],
+  "price": 220,
+  "distance": 500,
+  "userId": "643d72dc05ea53f6a7889a17"
+},{
+  "_id": {
+    "$oid": "643f1d0f2a99f259c18d9acb"
+  },
+  "title": "Elegant Penthouse with City Views",
+  "location": "London, England",
+  "description": "Stay in this elegant penthouse with stunning city views. Experience the best of London with easy access to top attractions and dining.",
+  "spotImages": [
+    "https://images.unsplash.com/photo-1595032186144-1a5bcc537f52?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+    "https://images.unsplash.com/photo-1604578762246-41134e37f9cc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "https://images.unsplash.com/photo-1618219944342-824e40a13285?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=627&q=80",
+    "https://images.unsplash.com/photo-1615874694520-474822394e73?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1480&q=80",
+    "https://images.unsplash.com/photo-1618219740975-d40978bb7378?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1400&q=80"
+  ],
+  "rating": 4.8,
+  "reviews": [
+    {
+      "userId": "a1b2c3d4e5f6",
+      "name": "Oliver",
+      "rating": 5,
+      "comment": "The penthouse was absolutely stunning, with incredible views of the city. It was very clean and stylish, making our stay in London memorable."
+    },
+    {
+      "userId": "g7h8i9j1k2l3",
+      "name": "Sophia",
+      "rating": 4,
+      "comment": "Great location and beautiful apartment. Some minor issues with the elevator, but overall a fantastic experience."
+    },
+    {
+      "userId": "m4n5o6p7q8r9",
+      "name": "James",
+      "rating": 5,
+      "comment": "Amazing penthouse with breathtaking views! Top-notch amenities and fantastic service. Highly recommended for anyone visiting London."
+    },
+    {
+      "userId": "s1t2u3v4w5x6",
+      "name": "Benjamin",
+      "rating": 3,
+      "comment": "The penthouse was nice, but not as impressive as the photos made it seem. It was also quite noisy due to the nearby construction."
+    }
+  ],
+  "price": 400,
+  "distance": 950,
+  "userId": "643d72dc05ea53f6a7889a17"
+},{
+  "_id": {
+    "$oid": "643f1d0f2a99f259c18d9acc"
+  },
+  "title": "Tranquil Countryside Retreat",
+  "location": "Tuscany, Italy",
+  "description": "Unwind in this peaceful countryside retreat, surrounded by rolling hills and vineyards. Explore nearby historic villages and savor the local flavors.",
+  "spotImages": [
+    "https://images.unsplash.com/photo-1565352336881-dc2c1f7d2d5b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "https://images.unsplash.com/photo-1615875474908-f403116f5287?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1480&q=80",
+    "https://images.unsplash.com/photo-1600607686527-6fb886090705?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+    "https://images.unsplash.com/photo-1618220252344-8ec99ec624b1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1480&q=80",
+    "https://images.unsplash.com/photo-1604014237256-11d475e2a2d8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
+  ],
+  "reviews": [
+    {
+      "userId": "a1b2c3d4e5f6",
+      "name": "Maria",
+      "rating": 5,
+      "comment": "The most amazing stay I've ever had! The tranquil atmosphere and gorgeous scenery made it a perfect countryside escape. Highly recommended."
+    },
+    {
+      "userId": "g7h8i9j1k2l3",
+      "name": "Luca",
+      "rating": 4,
+      "comment": "Beautiful location and lovely accommodations. The only downside was the slow internet connection, but the stunning surroundings made up for it."
+    },
+    {
+      "userId": "m4n5o6p7q8r9",
+      "name": "Isabella",
+      "rating": 4,
+      "comment": "Charming countryside retreat with everything we needed for a relaxing vacation. We loved exploring the nearby villages and vineyards."
+    },
+    {
+      "userId": "s1t2u3v4w5x6",
+      "name": "Enzo",
+      "rating": 5,
+      "comment": "This place is a hidden gem in Tuscany! The perfect place to unwind and experience the beauty of the Italian countryside."
+    },
+    {
+      "userId": "y7z8a9b1c2d3",
+      "name": "Giovanni",
+      "rating": 2,
+      "comment": "Disappointing experience at the countryside retreat. The amenities were outdated and the cleanliness left something to be desired."
+    },
+    {
+      "userId": "e4f5g6h7i8j9",
+      "name": "Francesca",
+      "rating": 5,
+      "comment": "An unforgettable experience! The house was cozy and inviting, and the surroundings were absolutely breathtaking. Can't wait to come back!"
+    },
+    {
+      "userId": "k1l2m3n4o5p6",
+      "name": "Marco",
+      "rating": 3,
+      "comment": "The countryside retreat was nice, but the directions to the property were confusing and we had trouble finding it. Once we arrived, the accommodations were comfortable."
+    },
+    {
+      "userId": "r7s8t9u1v2w3",
+      "name": "Alessandra",
+      "rating": 4,
+      "comment": "Lovely countryside getaway with a great location for exploring the region. However, the hot water in the shower was inconsistent."
+    },
+    {
+      "userId": "x4y5z6a7b8c9",
+      "name": "Giuseppe",
+      "rating": 2,
+      "comment": "Not impressed with the countryside retreat. The furniture was outdated and uncomfortable, and the heating system was unreliable."
+    }
+  ],
+  "price": 175,
+  "distance": 900,
+  "userId": "643f1ccf85f82ace643b5b35"
+},{
+  "_id": {
+    "$oid": "643f1d0f2a99f259c18d9acd"
+  },
+  "title": "Stylish Studio in the City",
+  "location": "Paris, France",
+  "description": "Discover the charm of Paris in this stylish studio, conveniently located near popular attractions, shops, and restaurants.",
+  "spotImages": [
+    "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "https://images.unsplash.com/photo-1613545564235-db7af30081bf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "https://images.unsplash.com/photo-1590725140246-20acdee442be?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+    "https://images.unsplash.com/photo-1506126279646-a697353d3166?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "https://images.unsplash.com/photo-1512915922686-57c11dde9b6b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1473&q=80"
+  ],
+  "rating": 4.6,
+  "reviews": [
+    {
+      "userId": "a5f5d6bfe910",
+      "name": "Sophie",
+      "rating": 5,
+      "comment": "A lovely studio in a great location! We enjoyed being close to attractions and fantastic dining options. The studio was beautifully decorated and comfortable."
+    },
+    {
+      "userId": "f7e8a9d1e7b0",
+      "name": "Jean-Pierre",
+      "rating": 4,
+      "comment": "The stylish studio was perfect for our Paris trip. It was well-equipped, and the location was superb. However, the street was a bit noisy at night."
+    },
+    {
+      "userId": "c1d2e3f4a5b6",
+      "name": "Olivia",
+      "rating": 5,
+      "comment": "Fantastic stay in this chic Parisian studio! The space was beautifully designed, and we loved being able to walk to nearby attractions and cafés."
+    },
+    {
+      "userId": "e8f9d0a1b2c3",
+      "name": "Thomas",
+      "rating": 3,
+      "comment": "The studio was in a good location, but we encountered some cleanliness issues during our stay. Additionally, the shower was not functioning properly."
+    },
+    {
+      "userId": "d9e0a1b2c3f4",
+      "name": "Charlotte",
+      "rating": 4,
+      "comment": "A charming studio that is perfect for exploring Paris. The only drawback was the limited storage space for our luggage and belongings."
+    },
+    {
+      "userId": "b2c3d4e5f6g7",
+      "name": "Hugo",
+      "rating": 5,
+      "comment": "Loved our stay in this stylish studio! The location is unbeatable, and the apartment was well-appointed and cozy. We will definitely return."
+    },
+    {
+      "userId": "g7h8i9j1k2l3",
+      "name": "Amélie",
+      "rating": 4,
+      "comment": "The studio was nice, but the noise from the street made it difficult to sleep at night. Additionally, the bathroom was quite small."
+    }
+  ],
+  "price": 150,
+  "distance": 250,
+  "userId": "643d72dc05ea53f6a7889a17"
+},{
+  "_id": {
+    "$oid": "643f1d0f2a99f259c18d9ace"
+  },
+  "title": "Chic and Elegant Studio",
+  "location": "Paris, France",
+  "description": "Experience the City of Lights in style with this chic and elegant studio, just a stone's throw away from popular attractions.",
+  "spotImages": [
+    "https://images.unsplash.com/photo-1556595101-15dc5f6431e3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+    "https://images.unsplash.com/photo-1615529162924-f8605388461d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1480&q=80",
+    "https://images.unsplash.com/photo-1562663474-6cbb3eaa4d14?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+    "https://images.unsplash.com/photo-1600607687126-8a3414349a51?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+    "https://images.unsplash.com/photo-1616593969747-4797dc75033e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1480&q=80"
+  ],
+  "rating": 4.4,
+  "reviews": [
+    {
+      "userId": "f3e4d5c6b7a8",
+      "name": "Lucas",
+      "rating": 4,
+      "comment": "The studio was chic and well-decorated, providing a comfortable stay. The location was excellent, but we experienced some noise from the street at night."
+    },
+    {
+      "userId": "b9a8c7d6e5f4",
+      "name": "Emma",
+      "rating": 5,
+      "comment": "Absolutely loved this elegant studio in Paris! The interior design was gorgeous, and the location was perfect for exploring the city's attractions. Highly recommended!"
+    },
+    {
+      "userId": "d5e6f7a8b9c0",
+      "name": "Antoine",
+      "rating": 4,
+      "comment": "A beautiful and well-located studio in Paris. It had everything we needed for a comfortable stay, although the Wi-Fi was a bit slow at times."
+    }
+  ],
+  "price": 180,
+  "distance": 1050,
+  "userId": "643c8ac5ca1f186979f3bbc7"
+},{
+  "_id": {
+    "$oid": "643f1d0f2a99f259c18d9acf"
+  },
+  "title": "Beachfront Retreat with Infinity Pool",
+  "location": "Santorini, Greece",
+  "description": "Unwind in this stunning beachfront retreat complete with an infinity pool and breathtaking views of the Mediterranean.",
+  "spotImages": [
+    "https://images.unsplash.com/photo-1533070129449-d0ee17425ac4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=776&q=80",
+    "https://images.unsplash.com/photo-1543489822-c49534f3271f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80",
+    "https://images.unsplash.com/photo-1501127122-f385ca6ddd9d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "https://images.unsplash.com/photo-1556020685-ae41abfc9365?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+    "https://images.unsplash.com/photo-1527694224012-be005121c774?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=776&q=80"
+  ],
+  "rating": 4.9,
+  "reviews": [
+    {
+      "userId": "u98b7c6d5e4",
+      "name": "Sofia",
+      "rating": 5,
+      "comment": "This beachfront retreat in Santorini exceeded our expectations! The infinity pool and stunning views made for a perfect vacation. Highly recommend for a luxurious getaway."
+    },
+    {
+      "userId": "a1b2c3d4e5f6",
+      "name": "Marco",
+      "rating": 5,
+      "comment": "An unforgettable experience at this amazing beachfront property. The infinity pool and breathtaking views made it difficult to leave. Everything was perfect, and we can't wait to come back!"
+    },
+    {
+      "userId": "g7h8i9j0k1l2",
+      "name": "Olivia",
+      "rating": 4.7,
+      "comment": "The villa is truly spectacular, with an incredible infinity pool and a view that is hard to beat. The only downside was the distance to the nearest town, but the privacy and serenity more than made up for it."
+    },
+    {
+      "userId": "m3n4o5p6q7r8",
+      "name": "Lucas",
+      "rating": 3,
+      "comment": "The villa was nice, but not worth the high price. The pool was smaller than expected, and there were some maintenance issues that needed attention."
+    },
+    {
+      "userId": "s9t0u1v2w3x4",
+      "name": "Emma",
+      "rating": 4,
+      "comment": "The villa had great views, but the furnishings were outdated and could use some updating. We also had some issues with the air conditioning during our stay."
+    },
+    {
+      "userId": "y5z6a7b8c9d0",
+      "name": "Nathan",
+      "rating": 2,
+      "comment": "The villa was a disappointment, with dirty and poorly maintained facilities. The pool was unusable during our stay, and the staff was unresponsive to our concerns."
+    }
+  ],
+  "price": 1300,
+  "distance": 2200,
+  "userId": "643c8ac5ca1f186979f3bbc7"
+},{
+  "_id": {
+    "$oid": "643f1d0f2a99f259c18d9ad0"
+  },
+  "title": "Classic Country Manor",
+  "location": "Cotswolds, England",
+  "description": "Escape to the English countryside in this classic manor, boasting all the charm and elegance of a bygone era.",
+  "spotImages": [
+    "https://images.unsplash.com/photo-1647996179012-66b87eba3d17?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1469&q=80",
+    "https://images.unsplash.com/photo-1501183638710-841dd1904471?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "https://images.unsplash.com/photo-1532372576444-dda954194ad0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+    "https://images.unsplash.com/photo-1501183638710-841dd1904471?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "https://images.unsplash.com/photo-1560184897-ae75f418493e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+  ],
+  "rating": 4.6,
+  "reviews": [
+    {
+      "name": "Mia",
+      "rating": 4,
+      "comment": "The classic country manor was beautiful and charming, with all the amenities we needed for a comfortable stay. However, the location was a bit remote for our taste.",
+      "userId": "4a4e24c4-eb6a-4fdd-94cc-53a7f63df940"
+    },
+    {
+      "name": "Ethan",
+      "rating": 5,
+      "comment": "We loved every minute of our stay at the classic country manor! The property was stunning and well-appointed, and the staff were friendly and accommodating.",
+      "userId": "9a1efc11-2b2c-4c48-88d7-31c4a15245c6"
+    },
+    {
+      "name": "Avery",
+      "rating": 4,
+      "comment": "The classic country manor was a lovely retreat, but the service was a bit lacking. Still, we enjoyed our stay and would recommend it to others.",
+      "userId": "0f05757b-59b9-415e-8a3a-8b3d6a74f62d"
+    },
+    {
+      "name": "Noah",
+      "rating": 5,
+      "comment": "Absolutely stunning property with amazing amenities! The classic country manor exceeded our expectations and provided a truly memorable vacation experience.",
+      "userId": "46bfc65a-2e51-4f6f-aa6c-60d1ac29fa34"
+    }
+  ],
+  "price": 550,
+  "distance": 3950,
+  "userId": "643c8ac5ca1f186979f3bbc7"
+},{
+  "_id": {
+    "$oid": "643f1d0f2a99f259c18d9ad1"
+  },
+  "title": "Urban Oasis with Skyline Views",
+  "location": "Tokyo, Japan",
+  "description": "Enjoy the best of city living with this sleek urban oasis, featuring stunning skyline views and modern amenities.",
+  "spotImages": [
+    "https://images.unsplash.com/photo-1666966738268-9e2f7219ec89?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80",
+    "https://images.unsplash.com/photo-1666966742263-9ee06057866f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80",
+    "https://images.unsplash.com/photo-1666966740532-14450d885196?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80",
+    "https://images.unsplash.com/photo-1571843439991-dd2b8e051966?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "https://images.unsplash.com/photo-1552155235-a68a6c02d512?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1495&q=80"
+  ],
+  "rating": 4.7,
+  "reviews": [
+    {
+      "name": "Charlotte",
+      "rating": 5,
+      "comment": "The Classic Country Manor was a dream come true. We loved the elegance and charm of the property. It was the perfect getaway for our family vacation in the English countryside.",
+      "userId": "8d03e00e22c1a96e25d3a47c"
+    },
+    {
+      "name": "Arthur",
+      "rating": 4.5,
+      "comment": "A delightful and charming manor, perfect for a relaxing countryside escape. The grounds were stunning, and the property was spacious and well-maintained. The only drawback was the distance to nearby attractions, but it didn't affect our overall enjoyment.",
+      "userId": "8d03e00e22c1a96e25d3a47c"
+    },
+    {
+      "name": "Amelia",
+      "rating": 4.2,
+      "comment": "The Classic Country Manor is a beautiful and elegant property. It was very comfortable, and we enjoyed the peaceful surroundings. However, the internet connection was not as reliable as we would have liked.",
+      "userId": "8d03e00e22c1a96e25d3a47c"
+    },
+    {
+      "name": "William",
+      "rating": 4.7,
+      "comment": "Our stay at the Classic Country Manor was delightful. The manor is charming and beautifully maintained, with spacious rooms and lovely gardens. We enjoyed the serenity and picturesque countryside. Highly recommended for a peaceful retreat.",
+      "userId": "8d03e00e22c1a96e25d3a47c"
+    }
+  ],
+  "price": 350,
+  "distance": 5200,
+  "userId": "643c8ac5ca1f186979f3bbc7"
+},{
+  "_id": {
+    "$oid": "643f1d0f2a99f259c18d9ad2"
+  },
+  "title": "Rustic Cabin Getaway",
+  "location": "Banff, Canada",
+  "description": "Immerse yourself in the great outdoors with this rustic cabin getaway, nestled amidst the picturesque Canadian Rockies.",
+  "spotImages": [
+    "https://images.unsplash.com/photo-1499696010180-025ef6e1a8f9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "https://images.unsplash.com/photo-1521401830884-6c03c1c87ebb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "https://images.unsplash.com/photo-1551927411-95e412943b58?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=898&q=80",
+    "https://images.unsplash.com/photo-1631630259742-c0f0b17c6c10?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "https://images.unsplash.com/photo-1576536423721-d68a48c8ffd8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1476&q=80"
+  ],
+  "rating": 4.8,
+  "reviews": [
+    {
+      "userId": "4dbff2e6b1ed5b51f55b29c8",
+      "name": "Olivia",
+      "rating": 5,
+      "comment": "This rustic cabin was everything we hoped for! The location was breathtaking, with the Canadian Rockies right outside our door. The cabin was cozy and well-equipped, making our stay comfortable and enjoyable."
+    },
+    {
+      "userId": "45fc3d4382e45bd87a1348fc",
+      "name": "James",
+      "rating": 2,
+      "comment": "The Rustic Cabin Getaway in Banff was a disappointment. The scenery was nice, but the cabin was dirty and the amenities were subpar. The spotty internet connection only added to our frustration."
+    },
+    {
+      "userId": "a2d7b9c8e47521b34809c3ef",
+      "name": "Sophia",
+      "rating": 4.8,
+      "comment": "Our stay at the Rustic Cabin Getaway was mostly enjoyable. The cabin was well-maintained and had all the amenities we needed, but the noise from the nearby highway detracted from the peaceful atmosphere."
+    },
+    {
+      "userId": "cf8aa69e6c9f54d41f934259",
+      "name": "Ethan",
+      "rating": 1,
+      "comment": "Our stay at the Rustic Cabin Getaway was a nightmare. The cabin was infested with insects, the plumbing was faulty, and the heating barely worked. We were extremely disappointed with our experience."
+    },
+    {
+      "userId": "7bbf20e64df3e8d232697ba6",
+      "name": "Emily",
+      "rating": 4.6,
+      "comment": "The Rustic Cabin Getaway provided a decent retreat in the heart of the Canadian Rockies. The cabin was cozy and comfortable, with everything we needed for our stay. The spotty internet connection was a minor inconvenience."
+    }
+  ],
+  "price": 300,
+  "distance": 1350,
+  "userId": "643c8ac5ca1f186979f3bbc7"
+},{
+  "_id": {
+    "$oid": "643f1d0f2a99f259c18d9ad3"
+  },
+  "title": "Luxurious Penthouse with City Views",
+  "location": "Sydney, Australia",
+  "description": "Indulge in luxury with this penthouse, offering stunning city views and unparalleled amenities in the heart of Sydney.",
+  "spotImages": [
+    "https://plus.unsplash.com/premium_photo-1661963360446-5ad15320b8bd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1355&q=80",
+    "https://images.unsplash.com/photo-1565623833408-d77e39b88af6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80",
+    "https://images.unsplash.com/photo-1613643043796-a370ee99ecbe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80",
+    "https://images.unsplash.com/photo-1613643044620-287b74606da1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "https://images.unsplash.com/photo-1609766857326-18a204c2cf31?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+  ],
+  "rating": 5,
+  "reviews": [
+    {
+      "userId": "c9b9ac99-aedc-43d1-a0a1-b7ca1e543ab8",
+      "name": "Ava",
+      "rating": 5,
+      "comment": "Our stay at the Luxurious Penthouse in Sydney was nothing short of amazing. The views were absolutely breathtaking, and the amenities were top-notch. We felt like royalty during our stay and would highly recommend this property."
+    },
+    {
+      "userId": "f98e2f10-dfae-40c2-90da-1c2d6d1338bf",
+      "name": "Mia",
+      "rating": 5,
+      "comment": "The Luxurious Penthouse in Sydney was an incredible experience. The city views were stunning, and the penthouse itself was immaculate and well-appointed. It truly felt like a home away from home. Highly recommended!"
+    },
+    {
+      "userId": "8a73b0a2-65eb-4e6d-bd6e-2006c5f6efcb",
+      "name": "Liam",
+      "rating": 5,
+      "comment": "This penthouse is the epitome of luxury and style. The panoramic city views were mesmerizing, and the amenities provided everything we needed for a comfortable stay. The location is also unbeatable, right in the heart of Sydney."
+    },
+    {
+      "userId": "c90ebd1f-6f74-4243-b2e1-8e7318cfeba5",
+      "name": "Sophie",
+      "rating": 5,
+      "comment": "Absolutely fantastic! The Luxurious Penthouse with City Views is hands down the best place I have ever stayed in. The location, the views, the amenities, and the overall experience were second to none. Highly recommended."
+    },
+    {
+      "userId": "1d2ccf2e-4c4f-4d75-98e4-41fcf98a907c",
+      "name": "Lucas",
+      "rating": 5,
+      "comment": "Our stay at the Luxurious Penthouse in Sydney exceeded our expectations. The views, location, and amenities were outstanding. The penthouse was beautifully decorated, spacious, and comfortable. We can't wait to return!"
+    },
+    {
+      "userId": "5b5e5c96-22fa-49d3-9be3-3cc340c96cc2",
+      "name": "Charlotte",
+      "rating": 5,
+      "comment": "The Luxurious Penthouse in Sydney was an exceptional experience. From the stunning city views to the well-equipped and stylish penthouse, we couldn't have asked for a better place to stay. We felt pampered throughout our visit and would highly recommend this property."
+    }
+  ],
+  "price": 950,
+  "distance": 8750,
+  "userId": "643c8ac5ca1f186979f3bbc7"
+},{
+  "_id": {
+    "$oid": "6445780be89e58dfed974748"
+  },
+  "title": "The place",
+  "location": "Heaven",
+  "description": "The place where God exists ",
+  "spotImages": [
+    "https://images.unsplash.com/photo-1440407876336-62333a6f010f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1474&q=80"
+  ],
+  "price": "125",
+  "distance": "125"
+},{
+  "_id": {
+    "$oid": "6445785ce89e58dfed974749"
+  },
+  "title": "The place",
+  "location": "Heaven",
+  "description": "The place where God exists ",
+  "spotImages": [
+    "https://images.unsplash.com/photo-1440407876336-62333a6f010f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1474&q=80"
+  ],
+  "price": "125",
+  "distance": "125"
+},{
+  "_id": {
+    "$oid": "6445786de89e58dfed97474a"
+  },
+  "title": "The place",
+  "location": "Heaven",
+  "description": "The place where God exists ",
+  "spotImages": [
+    "https://images.unsplash.com/photo-1440407876336-62333a6f010f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1474&q=80"
+  ],
+  "price": "125",
+  "distance": "44124"
+},{
+  "_id": {
+    "$oid": "64457a9ee89e58dfed97474b"
+  },
+  "title": "The place",
+  "location": "Daly City",
+  "description": "The place where God exists ",
+  "spotImages": [
+    "https://images.unsplash.com/photo-1440407876336-62333a6f010f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1474&q=80"
+  ],
+  "price": "1251",
+  "distance": "125"
+}]
