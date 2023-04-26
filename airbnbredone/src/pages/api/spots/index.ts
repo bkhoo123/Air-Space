@@ -4,7 +4,7 @@ import { ObjectId } from 'mongodb'
 
 const handler = async (req: NextApiRequest, res: NextApiResponse) => {
   const db = await connectToDatabase();
-  const spots = await db.collection('spots');
+  const spots = await db.collection('Spots');
 
   if (req.method === 'POST') {
     try {

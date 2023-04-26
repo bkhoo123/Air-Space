@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "643cb0acca1f186979f3bbc8"
+  },
+  "name": "Leon Liu",
+  "username": "Survivor",
+  "email": "survivethecode123@gmail.com",
+  "password": "$2b$10$8UqUfHXo1eWHXtgb1WIYHOCLzqtjDq2/ghbULlZc7mSfcKF/TRrMy"
+},{
+  "_id": {
+    "$oid": "643d72dc05ea53f6a7889a17"
+  },
+  "name": "simon min",
+  "username": "footballgod",
+  "email": "simonmin123@gmail.com",
+  "password": "$2b$10$N5iXp2HUJQ.A13jYid9w4OXbbgj/AHX4/lsS16b9.IuRDCzQr.YCC"
+},{
+  "_id": {
+    "$oid": "643d736105ea53f6a7889a18"
+  },
+  "name": "Leon Liu",
+  "username": "Blow123",
+  "email": "liumester123@gmail.com",
+  "password": "$2b$10$tonsIylMtW8BuwuMW2l89eNtvfUd7UPnxn0Z1L/hCNX3owdx7QHi."
+},{
+  "_id": {
+    "$oid": "643ef3a485f82ace643b5b34"
+  },
+  "name": "dummy",
+  "username": "Dummer",
+  "email": "dummyaccount123@gmail.com",
+  "password": "$2b$10$tR5W2UgrRtabE2Xml4m0k.N9YKJKeOuqAGL04St1lbE/kFX0Te89W"
+},{
+  "_id": {
+    "$oid": "643f1ccf85f82ace643b5b35"
+  },
+  "name": "Jason Wong",
+  "username": "jasonwong123",
+  "email": "jasonwong123@gmail.com",
+  "password": "$2b$10$iPRF1uL.rLaRKXwaVqOxZeBFd3IvGVBqu2Yj1Jb5qra7ozpwPPkz."
+}]

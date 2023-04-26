@@ -10,7 +10,7 @@ handler.get(async (req, res) => {
   const { id } = req.query;
 
   try {
-    const user = await db.collection('users').findOne({ _id: new ObjectId(id as string) });
+    const user = await db.collection('Users').findOne({ _id: new ObjectId(id as string) });
 
     if (!user) {
       return res.status(404).json({ message: 'User not found' });

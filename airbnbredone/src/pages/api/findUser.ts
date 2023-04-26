@@ -24,7 +24,7 @@ export default async function handler(
   try {
     const db = await connectToDatabase();
     const user = await db
-      .collection('users')
+      .collection('Users')
       .findOne({ _id: new ObjectId(_id) });
 
     if (!user) {
