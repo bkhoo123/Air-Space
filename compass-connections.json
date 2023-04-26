@@ -1,0 +1,18 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "ed0f6fb4-e83f-494f-b1f3-72b8fffc286b",
+      "connectionOptions": {
+        "connectionString": "mongodb://localhost:27017/"
+      },
+      "favorite": {
+        "name": "Airbnb Redone",
+        "color": "color2"
+      }
+    }
+  ]
+}
