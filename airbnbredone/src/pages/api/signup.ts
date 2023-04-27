@@ -17,7 +17,7 @@ const handler = async (req: NextApiRequest, res: NextApiResponse) => {
     const user = { name, username, email, password: hashedPassword };
 
     const db = await connectToDatabase();
-    const result = await db.collection('users').insertOne(user);
+    const result = await db.collection('Users').insertOne(user);
 
     res.status(201).json({ message: 'User created', userId: result.insertedId });
   } catch (error) {

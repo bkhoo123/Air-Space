@@ -18,7 +18,7 @@ const handler = async (req: NextApiRequest, res: NextApiResponse) => {
 
     try {
       const db = await connectToDatabase();
-      const spotsCollection = db.collection("spots");
+      const spotsCollection = db.collection("Spots");
 
       const result = await spotsCollection.updateOne(
         { _id: new ObjectId(spotId as string) },

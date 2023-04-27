@@ -1,6 +1,6 @@
 import { MongoClient, Db } from 'mongodb';
 
-const uri = process.env.MONGODB_URI || 'mongodb://localhost:27017' ;
+const uri = "mongodb+srv://khoobrian123:gjOn81ysO88PXdYR@airbnbredone.ggbyhb2.mongodb.net/test" ;
 
 
 let cachedDb: Db | null = null;
@@ -11,7 +11,7 @@ async function connectToDatabase(): Promise<Db> {
   }
 
   const client = await MongoClient.connect(uri);
-  const db = client.db(process.env.MONGODB_DB || 'Airbnb_Redone');
+  const db = client.db('AirbnbRedone');
   cachedDb = db;
 
   return db;

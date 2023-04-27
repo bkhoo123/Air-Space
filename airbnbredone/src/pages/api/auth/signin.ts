@@ -12,7 +12,7 @@ const handler = async (req: NextApiRequest, res: NextApiResponse) => {
 
   try {
     const db = await connectToDatabase();
-    const user = await db.collection('users').findOne({
+    const user = await db.collection('Users').findOne({
       $or: [{ email: credential }, { username: credential }],
     });
     

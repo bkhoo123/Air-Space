@@ -217,9 +217,15 @@ export default function SpotDetails() {
     toggleReviewModal(!reviewModal)
   }
 
-  const deleteReview = (e:any) => {
+  const deleteReview = async (e:any, reviewIndex: number) => {
+    const payload = {
+      spotId: spotId,
+      reviewIndex: reviewIndex
+    }
+
     e.preventDefault()
-    axios.put(`/api/spots/deleteReview`)
+    await axios.put(`/api/spots/deleteReview`, payload)
+    await router.reload()
   }
   
 
@@ -259,7 +265,7 @@ export default function SpotDetails() {
               <div className=" border-stone-300  text-xl font-semibold">⭐ {avg} • {values?.length} Reviews</div>
               <div> 
                 <button onClick={reviewToggle} className="border p-2.5 rounded-md bg-rose-400 text-white font-semibold hover:bg-stone-400">Write a Review</button>
-                <form onSubmit={handleCreateReview} className={reviewModal ? 'absolute left-[25%] top-[40%] bg-cyan-900 h-auto w-1/2 p-12 rounded-lg flex gap-2 flex-col': 'hidden'}>
+                <form onSubmit={handleCreateReview} className={reviewModal ? 'absolute left-[25%] top-[50%] bg-cyan-900 h-auto w-1/2 p-12 rounded-lg flex gap-2 flex-col': 'hidden'}>
                   
                 <label className="flex flex-col gap-2 text-white">
                   Review:
@@ -301,8 +307,12 @@ export default function SpotDetails() {
               <div className="flex gap-3 flex-col">
               {values.map((review: any, index:any) => (
                   <>
+                  <div className="flex flex-row justify-between">
                   <div className="font-semibold">{review.name} • {randomDates[index]} <span className='ml-3'>{renderStars(review?.rating)}</span> </div>
+                  <div className={currentUser?.id == review?.userId ? "" : "hidden"}><button onClick={(e) => deleteReview(e, index)} className="p-2 border bg-rose-400 rounded-md text-white">Delete</button></div>
+                  </div>
                   <div key={review?._id}>{review?.comment}</div>
+                  
                   </>
                 ))}
               </div>

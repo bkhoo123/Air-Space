@@ -16,7 +16,7 @@ const handler = async (req: NextApiRequest, res: NextApiResponse) => {
   }
 
   const db = await connectToDatabase();
-  const spots = await db.collection("spots");
+  const spots = await db.collection("Spots");
 
   switch (method) {
     case "GET":
