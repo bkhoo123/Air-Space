@@ -319,7 +319,8 @@ export default function SpotDetails() {
               </div>
             </div>
 
-              <Bookings spot={spot} avg={avg} values={values}  userId={currentUser?.id} />  
+            <Bookings spot={spot} avg={parseFloat(avg)} values={values} userId={currentUser?.id} />
+
 
 
           </div>
