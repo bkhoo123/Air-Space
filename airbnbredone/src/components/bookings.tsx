@@ -12,6 +12,13 @@ export default function Bookings({spot, avg, values, userId}) {
     date1WeekLater.setDate(date1.getDate() + 7);
     const [selectedDates, setSelectedDates] = useState([])
     const [guests, setGuests] = useState(1)
+
+    interface Props {
+      spot: any;
+      avg: number;
+      values: any; // Replace 'any' with the appropriate type if known
+      userId: string;
+    }
     
     const {spotId} = router.query
 
