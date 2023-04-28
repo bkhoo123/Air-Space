@@ -54,7 +54,7 @@ const handler = async (req: NextApiRequest, res: NextApiResponse) => {
       res.status(500).json({ message: "Error creating booking", error: error.message });
     }
   } else if (req.method === "DELETE") {
-    const { bookingId } = req.query;
+    const bookingId = Array.isArray(req.query.bookingId) ? req.query.bookingId[0] : req.query.bookingId;
     
   
     try {
