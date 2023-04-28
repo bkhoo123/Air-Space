@@ -49,7 +49,7 @@ export default function Bookings({spot, avg, values, userId}: Props) {
       } else {
         const newDates = [...selectedDates];
         newDates[1] = date;
-        setSelectedDates(newDates.sort((a, b) => a - b));
+        setSelectedDates(newDates.sort((a, b) => a.getTime() - b.getTime()));
       }
     };
     console.log(selectedDates)
