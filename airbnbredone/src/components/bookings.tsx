@@ -12,7 +12,7 @@ interface Props {
 }
 
 
-export default function Bookings({spot, avg, values, userId}) {
+export default function Bookings({spot, avg, values, userId}: Props) {
     const router = useRouter()
     const [bookings, setBookings] = useState([])
     const [date1, setDate1] = useState(new Date())
