@@ -143,7 +143,7 @@ export default function Bookings({spot, avg, values, userId}: Props) {
                     </div>
                 </div>
                 <div className="mt-5 mx-12">
-                <Calendar value={selectedDates} onClickDay={(date) => handleDateSelection(date)} className="rounded-md" />
+                <Calendar value={selectedDates as [Date, Date]} onClickDay={(date) => handleDateSelection(date)} className="rounded-md" />
                 </div>
 
                 <div className="text-center mt-5">
