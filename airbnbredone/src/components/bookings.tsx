@@ -18,7 +18,7 @@ export default function Bookings({spot, avg, values, userId}: Props) {
     const [date1, setDate1] = useState(new Date())
     const date1WeekLater = new Date(date1);
     date1WeekLater.setDate(date1.getDate() + 7);
-    const [selectedDates, setSelectedDates] = useState([])
+    const [selectedDates, setSelectedDates] = useState<Date[]>([]);
     const [guests, setGuests] = useState(1)
 
   
@@ -41,7 +41,7 @@ export default function Bookings({spot, avg, values, userId}: Props) {
     
     // <button className={userId == booking.userId ? "bg-rose-400 p-2 text-white font-semibold rounded-md " : `hidden`}>Edit</button>
 
-    const handleDateSelection = (date: any) => {
+    const handleDateSelection = (date: Date) => {
       if (selectedDates.length === 2) {
         setSelectedDates([date]);
       } else if (selectedDates.length === 0) {
