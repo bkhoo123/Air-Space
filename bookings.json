@@ -1,5 +1,213 @@
 [
     {
-        
-    }
+      "userId": "643f1ccf85f82ace643b5b35",
+      "spotId": "643f1d0f2a99f259c18d9ab9",
+      "startDate": "2021-03-12",
+      "endDate": "2021-03-14"
+    },
+    {
+      "userId": "643ef3a485f82ace643b5b34",
+      "spotId": "643f1d0f2a99f259c18d9ab9",
+      "startDate": "2022-10-22",
+      "endDate": "2022-10-26"
+    },
+    {
+      "userId": "643d736105ea53f6a7889a18",
+      "spotId": "643f1d0f2a99f259c18d9aba",
+      "startDate": "2021-07-11",
+      "endDate": "2021-07-15"
+    },
+    {
+      "userId": "643d72dc05ea53f6a7889a17",
+      "spotId": "643f1d0f2a99f259c18d9aba",
+      "startDate": "2022-02-01",
+      "endDate": "2022-02-05"
+    },
+    {
+      "userId": "643cb0acca1f186979f3bbc8",
+      "spotId": "643f1d0f2a99f259c18d9abb",
+      "startDate": "2021-12-20",
+      "endDate": "2021-12-28"
+    },
+    {
+        "userId": "643f1ccf85f82ace643b5b35",
+        "spotId": "643f1d0f2a99f259c18d9abc",
+        "startDate": "2021-11-07",
+        "endDate": "2021-11-10"
+      },
+      {
+        "userId": "643ef3a485f82ace643b5b34",
+        "spotId": "643f1d0f2a99f259c18d9abd",
+        "startDate": "2022-08-15",
+        "endDate": "2022-08-19"
+      },
+      {
+        "userId": "643d736105ea53f6a7889a18",
+        "spotId": "643f1d0f2a99f259c18d9abe",
+        "startDate": "2021-04-20",
+        "endDate": "2021-04-25"
+      },
+      {
+        "userId": "643d72dc05ea53f6a7889a17",
+        "spotId": "643f1d0f2a99f259c18d9abf",
+        "startDate": "2023-01-07",
+        "endDate": "2023-01-12"
+      },
+      {
+        "userId": "643cb0acca1f186979f3bbc8",
+        "spotId": "643f1d0f2a99f259c18d9ac0",
+        "startDate": "2022-05-05",
+        "endDate": "2022-05-08"
+      },
+      {
+        "userId": "643f1ccf85f82ace643b5b35",
+        "spotId": "643f1d0f2a99f259c18d9ac1",
+        "startDate": "2021-06-28",
+        "endDate": "2021-07-02"
+      },
+      {
+        "userId": "643ef3a485f82ace643b5b34",
+        "spotId": "643f1d0f2a99f259c18d9ac2",
+        "startDate": "2021-09-11",
+        "endDate": "2021-09-15"
+      },
+      {
+        "userId": "643d736105ea53f6a7889a18",
+        "spotId": "643f1d0f2a99f259c18d9ac3",
+        "startDate": "2021-03-21",
+        "endDate": "2021-03-25"
+      },
+      {
+        "userId": "643d72dc05ea53f6a7889a17",
+        "spotId": "643f1d0f2a99f259c18d9ac4",
+        "startDate": "2021-10-04",
+        "endDate": "2021-10-08"
+      },
+      {
+        "userId": "643cb0acca1f186979f3bbc8",
+        "spotId": "643f1d0f2a99f259c18d9ac5",
+        "startDate": "2021-02-13",
+        "endDate": "2021-02-16"
+      },
+      {
+        "userId": "643f1ccf85f82ace643b5b35",
+        "spotId": "643f1d0f2a99f259c18d9abc",
+        "startDate": "2021-11-07",
+        "endDate": "2021-11-10"
+      },
+      {
+        "userId": "643ef3a485f82ace643b5b34",
+        "spotId": "643f1d0f2a99f259c18d9abd",
+        "startDate": "2022-08-15",
+        "endDate": "2022-08-19"
+      },
+      {
+        "userId": "643d736105ea53f6a7889a18",
+        "spotId": "643f1d0f2a99f259c18d9abe",
+        "startDate": "2021-04-20",
+        "endDate": "2021-04-25"
+      },
+      {
+        "userId": "643d72dc05ea53f6a7889a17",
+        "spotId": "643f1d0f2a99f259c18d9abf",
+        "startDate": "2023-01-07",
+        "endDate": "2023-01-12"
+      },
+      {
+        "userId": "643cb0acca1f186979f3bbc8",
+        "spotId": "643f1d0f2a99f259c18d9ac0",
+        "startDate": "2022-05-05",
+        "endDate": "2022-05-08"
+      },
+      {
+        "userId": "643f1ccf85f82ace643b5b35",
+        "spotId": "643f1d0f2a99f259c18d9ac1",
+        "startDate": "2021-06-28",
+        "endDate": "2021-07-02"
+      },
+      {
+        "userId": "643ef3a485f82ace643b5b34",
+        "spotId": "643f1d0f2a99f259c18d9ac2",
+        "startDate": "2021-09-11",
+        "endDate": "2021-09-15"
+      },
+      {
+        "userId": "643d736105ea53f6a7889a18",
+        "spotId": "643f1d0f2a99f259c18d9ac3",
+        "startDate": "2021-03-21",
+        "endDate": "2021-03-25"
+      },
+      {
+        "userId": "643d72dc05ea53f6a7889a17",
+        "spotId": "643f1d0f2a99f259c18d9ac4",
+        "startDate": "2021-10-04",
+        "endDate": "2021-10-08"
+      },
+      {
+        "userId": "643cb0acca1f186979f3bbc8",
+        "spotId": "643f1d0f2a99f259c18d9ac5",
+        "startDate": "2021-02-13",
+        "endDate": "2021-02-16"
+        },
+        {
+            "userId": "643f1ccf85f82ace643b5b35",
+            "spotId": "643f1d0f2a99f259c18d9abc",
+            "startDate": "2021-11-07",
+            "endDate": "2021-11-10"
+          },
+          {
+            "userId": "643ef3a485f82ace643b5b34",
+            "spotId": "643f1d0f2a99f259c18d9abd",
+            "startDate": "2022-08-15",
+            "endDate": "2022-08-19"
+          },
+          {
+            "userId": "643d736105ea53f6a7889a18",
+            "spotId": "643f1d0f2a99f259c18d9abe",
+            "startDate": "2021-04-20",
+            "endDate": "2021-04-25"
+          },
+          {
+            "userId": "643d72dc05ea53f6a7889a17",
+            "spotId": "643f1d0f2a99f259c18d9abf",
+            "startDate": "2023-01-07",
+            "endDate": "2023-01-12"
+          },
+          {
+            "userId": "643cb0acca1f186979f3bbc8",
+            "spotId": "643f1d0f2a99f259c18d9ac0",
+            "startDate": "2022-05-05",
+            "endDate": "2022-05-08"
+          },
+          {
+            "userId": "643f1ccf85f82ace643b5b35",
+            "spotId": "643f1d0f2a99f259c18d9ac1",
+            "startDate": "2021-06-28",
+            "endDate": "2021-07-02"
+          },
+          {
+            "userId": "643ef3a485f82ace643b5b34",
+            "spotId": "643f1d0f2a99f259c18d9ac2",
+            "startDate": "2021-09-11",
+            "endDate": "2021-09-15"
+          },
+          {
+            "userId": "643d736105ea53f6a7889a18",
+            "spotId": "643f1d0f2a99f259c18d9ac3",
+            "startDate": "2021-03-21",
+            "endDate": "2021-03-25"
+          },
+          {
+            "userId": "643d72dc05ea53f6a7889a17",
+            "spotId": "643f1d0f2a99f259c18d9ac4",
+            "startDate": "2021-10-04",
+            "endDate": "2021-10-08"
+          },
+          {
+            "userId": "643cb0acca1f186979f3bbc8",
+            "spotId": "643f1d0f2a99f259c18d9ac5",
+            "startDate": "2021-02-13",
+            "endDate": "2021-02-16"
+          }
 ]
+  

@@ -15,7 +15,9 @@ export default function NavBar() {
   const router = useRouter()
   const [search, setSearch] = useState<string>("")
   const [spots, setSpots] = useState([])
-  const [filteredSuggestions, setFilteredSuggestions] = useState([])
+  const [filteredSuggestions, setFilteredSuggestions] = useState([
+    
+  ])
   const [spotModal, toggleSpotModal] = useState(false)
 
   const [spotFormData, setSpotFormData] = useState({
@@ -131,15 +133,15 @@ export default function NavBar() {
     if (search) {
       setFilteredSuggestions(
         spots
-          .map((spot: any) => spot.title)
-          .filter((title: string) =>
-            title.toLowerCase().startsWith(search.toLowerCase())
+          .filter((spot: any) =>
+            spot.title.toLowerCase().startsWith(search.toLowerCase())
           )
       );
     } else {
       setFilteredSuggestions([]);
     }
   }, [search]);
+  
 
   // let suggestions: any = []
 
@@ -148,12 +150,14 @@ export default function NavBar() {
   // })
 
 
-
+  console.log(filteredSuggestions, 'filter')
   
-  const handleSuggestionClick = (suggestion: any) => {
+  const handleSuggestionClick = async (suggestion: any) => {
+    console.log(suggestion)
     setSearch(suggestion.title);
     setFilteredSuggestions([]);
-    router.push(`/spots/${suggestion._id}`);
+    router.push(`/spots/${suggestion._id}`).then(() => router.reload());
+    
   };
 
   return (
@@ -196,18 +200,18 @@ export default function NavBar() {
                 : 'hidden'
             }
           >
-            {filteredSuggestions.map((suggestion, index) => (
-              <div
-                key={index}
-                className="p-2 hover:bg-gray-200 cursor-pointer"
-                onClick={() => {
-                  setSearch(suggestion);
-                  setFilteredSuggestions([]);
-                }}
-              >
-                {suggestion}
-              </div>
-            ))}
+{filteredSuggestions.map((suggestion: any, index) => (
+  <div
+    key={index}
+    className="p-2 hover:bg-gray-200 cursor-pointer"
+    onClick={() => {
+      handleSuggestionClick(suggestion);
+    }}
+  >
+    {suggestion.title}
+  </div>
+))}
+
         </div>
         </form>
         

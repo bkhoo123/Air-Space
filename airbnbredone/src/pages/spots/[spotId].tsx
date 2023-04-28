@@ -2,7 +2,8 @@ import React, { useState, useEffect } from "react";
 import { useRouter } from "next/router";
 import axios from "axios";
 import { useUser } from "<prefix>/context/UserContext";
-import Calendar from 'react-calendar';
+
+import Bookings from "<prefix>/components/bookings";
 
 export default function SpotDetails() {
   const router = useRouter();
@@ -88,8 +89,6 @@ export default function SpotDetails() {
   }, [currentUser]);
 
   
-  console.log(spot)
-  console.log(currentUser)
 
   const DEFAULT_IMAGE = "https://via.placeholder.com/250";
 
@@ -209,7 +208,7 @@ export default function SpotDetails() {
 
     const response = await axios.post(`/api/spots/createReview`, payload);
     toggleReviewModal(false);
-    await router.reload()
+    router.reload()
   }
 
   const reviewToggle = (e:any) => {
@@ -225,9 +224,10 @@ export default function SpotDetails() {
 
     e.preventDefault()
     await axios.put(`/api/spots/deleteReview`, payload)
-    await router.reload()
+    router.reload()
   }
-  
+
+  // <button className='p-2 border bg-rose-400 rounded-md text-white font-semibold'>Edit</button> 
 
   return (
       <div className="p-6 container mx-auto">
@@ -309,7 +309,7 @@ export default function SpotDetails() {
                   <>
                   <div className="flex flex-row justify-between">
                   <div className="font-semibold">{review.name} • {randomDates[index]} <span className='ml-3'>{renderStars(review?.rating)}</span> </div>
-                  <div className={currentUser?.id == review?.userId ? "" : "hidden"}><button onClick={(e) => deleteReview(e, index)} className="p-2 border bg-rose-400 rounded-md text-white">Delete</button></div>
+                  <div className={currentUser?.id == review?.userId ? "flex gap-x-4" : "hidden"}>  <button onClick={(e) => deleteReview(e, index)} className="p-2 border bg-rose-400 rounded-md text-white font-semibold hover:bg-stone-400">Delete</button></div>
                   </div>
                   <div key={review?._id}>{review?.comment}</div>
                   
@@ -318,50 +318,7 @@ export default function SpotDetails() {
               </div>
             </div>
 
-            <div className="col-span-5 border border-stone-300 rounded-md h-auto p-5 shadow-lg shadow-slate-200" >
-              <span className="flex flex-row justify-between items-center">
-                <span>
-                  <span className="text-xl font-bold">${spot?.price}</span>
-                  <span>  night</span>
-                </span>
-                <span className="text-sm">
-                <span>⭐ {avg || "No reviews yet"} • {values.length} Reviews • {spot?.location}</span>
-                </span>
-              </span>
-
-                <div className="mt-5 border border-stone-400 grid grid-cols-2 m-4 rounded-md">
-
-                  <div className="border-r border-gray-300 p-3">
-                    <div className="text-xs font-bold">CHECK-IN</div>
-                    <div className="text-sm">{date1.toLocaleDateString()}</div>
-                  </div>
-
-                  <div className="p-3">
-                    <div className="text-xs font-bold">CHECKOUT</div>    
-                    <div className="text-sm">{date1WeekLater.toLocaleDateString()}</div>
-                  </div>
-                  <div className="border-t col-span-2 border-gray-300 text-sm p-3 border-bt">Guests</div>
-                </div>
-
-                <div className="text-center col-span-5 p-3">
-                  <button className="border w-full rounded-md p-2 bg-rose-400 text-white font-bold hover:bg-stone-400">Reserve</button>
-                  <div className="mt-2">You won't be charged yet</div>
-                </div>
-
-                <div className="flex justify-between px-4">
-                    <div>
-                      <div className="underline">${spot?.price}</div>
-                      <div className="underline">Cleaning Fee</div>
-                      <div className="underline">AirBK Service Fee</div>
-                    </div>
-
-                    <div>
-                        <div>$2020</div>
-                        <div>$180</div>
-                        <div>$311</div>
-                    </div>
-                </div>
-            </div>
+              <Bookings spot={spot} avg={avg} values={values}  userId={currentUser?.id} />  
 
 
           </div>

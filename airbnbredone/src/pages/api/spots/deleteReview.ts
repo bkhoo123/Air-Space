@@ -6,16 +6,19 @@ import { ObjectId } from "mongodb";
 const handler = async (req: NextApiRequest, res: NextApiResponse) => {
   if (req.method === "PUT") {
     const { spotId, reviewIndex } = req.body;
-    
+
     try {
       const db = await connectToDatabase();
       const spotsCollection = db.collection("Spots");
 
+      const spot = await spotsCollection.findOne({ _id: new ObjectId(spotId as string) });
+      const reviewToRemove = spot?.reviews[reviewIndex];
+
       const result = await spotsCollection.updateOne(
         { _id: new ObjectId(spotId as string) },
         {
-          $unset: {
-            [`reviews.${reviewIndex}`]: 1,
+          $pull: {
+            reviews: reviewToRemove,
           },
         }
       );

@@ -1,17 +1,11 @@
-// pages/api/spots/updateReview.ts
+// pages/api/spots/editReview.ts
 import { NextApiRequest, NextApiResponse } from "next";
 import { connectToDatabase } from "../../../../lib/mongodb";
 import { ObjectId } from "mongodb";
 
-interface UpdateReviewRequestBody {
-  rating: number;
-  comment: string;
-}
-
 const handler = async (req: NextApiRequest, res: NextApiResponse) => {
   if (req.method === "PUT") {
-    const { spotId, reviewIndex } = req.query;
-    const { rating, comment } = req.body as UpdateReviewRequestBody;
+    const { spotId, reviewIndex, updatedReview } = req.body;
 
     try {
       const db = await connectToDatabase();
@@ -21,8 +15,7 @@ const handler = async (req: NextApiRequest, res: NextApiResponse) => {
         { _id: new ObjectId(spotId as string) },
         {
           $set: {
-            [`reviews.${reviewIndex}.rating`]: rating,
-            [`reviews.${reviewIndex}.comment`]: comment,
+            [`reviews.${reviewIndex}`]: updatedReview,
           },
         }
       );
