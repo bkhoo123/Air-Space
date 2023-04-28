@@ -4,6 +4,14 @@ import Calendar from 'react-calendar';
 import 'react-calendar/dist/Calendar.css';
 import { useRouter } from 'next/router';
 
+interface Props {
+  spot: any;
+  avg: number;
+  values: any; // Replace 'any' with the appropriate type if known
+  userId: string;
+}
+
+
 export default function Bookings({spot, avg, values, userId}) {
     const router = useRouter()
     const [bookings, setBookings] = useState([])
@@ -13,13 +21,7 @@ export default function Bookings({spot, avg, values, userId}) {
     const [selectedDates, setSelectedDates] = useState([])
     const [guests, setGuests] = useState(1)
 
-    interface Props {
-      spot: any;
-      avg: number;
-      values: any; // Replace 'any' with the appropriate type if known
-      userId: string;
-    }
-    
+  
     const {spotId} = router.query
 
     useEffect(() => {
