@@ -59,7 +59,8 @@ export default function SpotDetails() {
           location: fetchedSpot?.location,
           description: fetchedSpot?.description,
           price: fetchedSpot?.price,
-          distance: fetchedSpot?.distance
+          distance: fetchedSpot?.distance,
+          userId: fetchedSpot?.userId, // Add this line
         });
       });
       
