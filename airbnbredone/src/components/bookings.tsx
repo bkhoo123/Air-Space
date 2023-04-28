@@ -117,7 +117,7 @@ export default function Bookings({spot, avg, values, userId}) {
 
                 <div className="text-center col-span-5 p-3">
                   <button onClick={handleReserve} className="border w-full rounded-md p-2 bg-rose-400 text-white font-bold hover:bg-stone-400">Reserve</button>
-                  <div className="mt-2">You won't be charged yet</div>
+                  <div className="mt-2">You wont be charged yet</div>
                 </div>
 
                 <div className="flex justify-between px-4">
@@ -143,7 +143,7 @@ export default function Bookings({spot, avg, values, userId}) {
                   </div>
                 <div className ="text-center mt-5 flex flex-col gap-3">
                   {bookings.map((booking, index) =>(
-                    <div className="flex flex-col gap-2">
+                    <div key={index} className="flex flex-col gap-2">
                     <div className="flex justify-between">Start Date: {booking.startDate}  </div>
                     <div className="flex justify-between">End Date: {booking.endDate} <button onClick={() => handleDelete(booking._id)} className={userId == booking.userId ? "bg-rose-400 p-2 text-white font-semibold rounded-md" : `hidden`}>Delete</button></div>
                     </div>

@@ -40,7 +40,7 @@ export default function Home() {
     <main className="mx-auto">
       <div className="flex flex-row flex-wrap gap-5 mt-6 justify-center content-center items-center">
       {allSpots.map(spot => (
-        <div>
+        <div key={spot._id}>
           <Link href={`/spots/${spot._id}`}>
           <img className="h-64 w-72 rounded-lg hover:scale-105 hover:cursor-pointer transition duration-300 ease-in-out" src={spot.spotImages[0]} alt="" />
           </Link>
