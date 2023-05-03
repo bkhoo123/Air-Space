@@ -142,18 +142,9 @@ export default function NavBar() {
     }
   }, [search]);
   
-
-  // let suggestions: any = []
-
-  // spots.forEach((ele: any) => {
-  //   suggestions.push(ele.title)
-  // })
-
-
-  console.log(filteredSuggestions, 'filter')
   
   const handleSuggestionClick = async (suggestion: any) => {
-    console.log(suggestion)
+    
     setSearch(suggestion.title);
     setFilteredSuggestions([]);
     router.push(`/spots/${suggestion._id}`).then(() => router.reload());
@@ -309,7 +300,7 @@ export default function NavBar() {
 
 
             <div className="flex">
-                <div onClick={handleDropDown} className="z-15 flex gap-x-2 border-2 border-rose-400 rounded-xl p-2.5">
+                <div onClick={handleDropDown} className="z-15 flex gap-x-2 border-2 border-rose-400 rounded-xl p-2.5 hover:bg-teal-100">
 
                         <Image
                         src={Dropdown}
@@ -334,11 +325,11 @@ export default function NavBar() {
                               <div>Name: {currentUser.name}</div>
                               
 
-                              <button onClick={handleLogout} className="bg-stone-200 hover:bg-gray-100 py-2 px-4 rounded-md">Logout</button>
-                              <Link href="/spots/current" className="bg-stone-200 hover:bg-gray-100 py-2 px-4 rounded-md text-center">Hosted Home Dashboard</Link>
-                              <Link href="/spots/favorites" className="bg-stone-200 hover:bg-gray-100 py-2 px-4 rounded-md text-center">Favorites</Link>
-                              <Link href="/spots/bookings" className="bg-stone-200 hover:bg-gray-100 py-2 px-4 rounded-md text-center">Bookings</Link>
-                              <div className="bg-stone-200 hover:bg-gray-100 py-2 px-4 rounded-md text-center">Account</div>
+                              <button onClick={handleLogout} className="bg-rose-400 hover:bg-stone-600 py-2 px-4 rounded-md text-white font-semibold">Logout</button>
+                              <Link href="/spots/current" className="bg-rose-400 hover:bg-stone-600 py-2 px-4 rounded-md text-center text-white font-semibold">Hosted Home Dashboard</Link>
+                              <Link href="/spots/favorites" className="bg-rose-400 hover:bg-stone-600 py-2 px-4 rounded-md text-center text-white font-semibold cursor-not-allowed">Favorites</Link>
+                              <Link href="/spots/bookings" className="bg-rose-400 hover:bg-stone-600 py-2 px-4 rounded-md text-center text-white font-semibold">Bookings</Link>
+                              <div className="bg-rose-400 hover:bg-stone-600 py-2 px-4 rounded-md text-center text-white font-semibold cursor-not-allowed">Account</div>
                             </div>
                          </div>
                         

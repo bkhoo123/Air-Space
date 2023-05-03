@@ -18,7 +18,7 @@ const UserDetails: React.FC = () => {
   const [loading, setLoading] = useState(true);
   
   const images = user?.images
-  console.log(images)
+  
 
   useEffect(() => {
     if (!userId) return;

@@ -33,9 +33,6 @@ export default function Home() {
 
   }, []);
 
-  console.log(allSpots)
-
-
   return (
     <main className="mx-auto">
       <div className="flex flex-row flex-wrap gap-5 mt-6 justify-center content-center items-center">

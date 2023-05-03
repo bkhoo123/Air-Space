@@ -52,8 +52,7 @@ export default function Bookings({spot, avg, values, userId}: Props) {
         setSelectedDates(newDates.sort((a, b) => a.getTime() - b.getTime()));
       }
     };
-    console.log(selectedDates)
-    console.log(bookings)
+
 
     const handleReserve = async (e: any) => {
       e.preventDefault();
