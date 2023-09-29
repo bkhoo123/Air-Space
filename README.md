@@ -1,4 +1,4 @@
-# AirbnbReDone
+# AirSpace
 
 AirBK is a web application cloned in the style of Airbnb that allows users to book locations and also host their homes up to the public.
 
