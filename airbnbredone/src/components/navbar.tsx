@@ -164,7 +164,7 @@ export default function NavBar() {
         height={80}
         className="rounded-3xl"
         />
-        AirBK
+        Air Space
         </div>
         </Link>
 
@@ -207,7 +207,7 @@ export default function NavBar() {
         </form>
         
         <div className="flex items-center gap-x-3 cursor-pointer">
-            <div onClick={() => toggleSpotModal(!spotModal)}>AirBK Your Home</div>
+            <div onClick={() => toggleSpotModal(!spotModal)}>Air Space Your Home</div>
 
             <form  onSubmit={handleSubmit} className={spotModal ? 'flex gap-4 flex-col absolute top-[25%] left-[25%] h-auto w-1/2 bg-cyan-950 rounded-lg p-10 z-30' : "hidden"}>
                 <label className="flex flex-col gap-2 text-white">

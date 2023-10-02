@@ -1,6 +1,6 @@
 # AirSpace
 
-AirBK is a web application cloned in the style of Airbnb that allows users to book locations and also host their homes up to the public.
+AirSpace is a web application cloned in the style of Airbnb that allows users to book locations and also host their homes up to the public.
 
 [Check out the live site!](https://airbnb-re-done.vercel.app/)
 
@@ -8,10 +8,12 @@ AirBK is a web application cloned in the style of Airbnb that allows users to bo
 
 Contents
 ===
-- [Splash Page](#splash)
-- [Login/Signup](#logging-in--signing-up)
-- [Hosted Homes Page](#hosted-homes-page)
-- [Spot Details Page](#spot-details-page)
+- [AirSpace](#airspace)
+- [Contents](#contents)
+  - [Splash](#splash)
+  - [Logging in / Signing Up](#logging-in--signing-up)
+  - [Hosted Homes Page](#hosted-homes-page)
+  - [Spot Details Page](#spot-details-page)
 
 ## Splash
 

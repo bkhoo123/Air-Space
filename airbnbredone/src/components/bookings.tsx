@@ -132,7 +132,7 @@ export default function Bookings({spot, avg, values, userId}: Props) {
                     <div>
                       <div className="underline">${spot?.price}</div>
                       <div className="underline">Cleaning Fee</div>
-                      <div className="underline">AirBK Service Fee</div>
+                      <div className="underline">Air Space Service Fee</div>
                     </div>
 
                     <div>
